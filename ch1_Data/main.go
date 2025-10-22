@@ -83,7 +83,16 @@ func main() {
 	var cn64 complex64 = complex(5, 10)
 	var cn128 complex128 = complex(10, 5)
 
-	fmt.Println("\n===  Point ===")
+	fmt.Println("\n===  Complex ===")
 	fmt.Printf("complex64  : %v\n", cn64)
 	fmt.Printf("complex128 	   : %v\n", cn128)
+
+	// ============================================================
+	// Section 1: String Literal
+	// ============================================================
+	var name string = "Ali Hassan"
+
+	fmt.Println("\n===  String ===")
+	fmt.Printf("name  : %s\n", name)
+
 }
