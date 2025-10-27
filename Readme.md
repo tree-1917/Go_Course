@@ -86,7 +86,7 @@ go version
 ## 🧑‍💻 Author
 
 **Gamal Moussa**
-Junior System Engineer | Developer | DevOps Enthusiast
+DevOps Engineer 
 📧 [tree1917@gmail.com](mailto:tree1917@gmail.com)
 🌐 [tree-1917.github.io](https://tree-1917.github.io)
 
